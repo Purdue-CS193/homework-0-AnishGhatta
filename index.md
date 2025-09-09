@@ -28,6 +28,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+## My favorite things about CS 19300
+
+```markdown
+
+- The lecturers are super chill
+- There isn't that much homework
+- I learn about a lot of opportunities in class
+
+```
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
